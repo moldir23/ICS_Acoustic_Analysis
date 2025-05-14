@@ -1,7 +1,8 @@
 
 # Intra-word Code-Switching: Acoustic Analysis
 
-A pilot experiment by Moldir Baidildinova (mbaidild@uci.edu, m.baydildinova@gmail.com).  
+A pilot experiment by Moldir Baidildinova, a first-year PhD student at the University of California, Irvine (UCI) (mbaidild@uci.edu, m.baydildinova@gmail.com).  
+
 Repo created: May 13, 2025
 
 ---
@@ -12,7 +13,7 @@ This pilot experiment aims to conduct an acoustic analysis of Kazakh-Russian int
 
 ---
 
-## Data
+## Experimental Data
 
 The acoustic data used in this project were collected through a production experiment conducted at the [UCI Speech Science Lab](https://www.langsci.uci.edu/undergrad/courses.php). We tested four Kazakh-Russian bilingual speakers, eliciting disyllabic nouns in a carrier phrase under the following three conditions:
 
@@ -21,6 +22,14 @@ The acoustic data used in this project were collected through a production exper
 - **Russian tokens in a Russian context**, with Russian suffixes
 
 All audio files were annotated using [Praat](https://www.fon.hum.uva.nl/praat/), and the acoustic analysis was performed using linear mixed-effects models implemented in the [`lme4`](https://cran.r-project.org/package=lme4) package in R.
+
+
+---
+
+## Acoustic Analysis Report
+
+🔗 [Click here to view the full HTML report](https://moldir23.github.io/ICS_Acoustic_Analysis/FinalAnalysis_5.html)
+
 
 ---
 
