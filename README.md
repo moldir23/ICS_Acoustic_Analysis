@@ -29,18 +29,14 @@ All audio files were annotated using [Praat](https://www.fon.hum.uva.nl/praat/),
 
 ## Repository Structure
 
-ICS_Acoustic_Analysis/
-├── analysis/
-│ ├── formants.R # R script for vowel-level (F1–F2) acoustic analyses
-│ └── syllables.R # R script for syllable-level acoustic analyses (duration, intensity, pitch)
-│
-├── datasets/
-│ ├── formants_dataset.csv # Vowel-level dataset used for formant dispersion analyses
-│ └── stress_dataset.csv # Syllable-level dataset with stress and positional information
-│
-├── AMP_2025_Poster_COPY_UPDATED.key # Keynote file for AMP 2025 poster presentation
-├── LICENSE.md # License information for the repository
-└── README.md # Project overview and usage instructions
+## Repository Structure
+
+- `analysis/`: R scripts for syllable- and vowel-level acoustic analyses  
+- `datasets/`: Processed datasets used in statistical modeling  
+- `AMP_2025_Poster_COPY_UPDATED.key`: AMP 2025 poster  
+- `LICENSE.md`: License information  
+- `README.md`: Project overview and documentation
+
 
 
 ---
