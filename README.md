@@ -3,8 +3,9 @@
 
 This repository was created as supplementary material for a study conducted by Moldir Baidildinova, Gregory Scontras, and Connor Mayer, which was presented at the Annual Meeting on Phonology 2025. It contains the core datasets and R scripts supporting the study’s findings.
 
+
 Repository created: May 13, 2025
-Corresponding author: Moldir Baidildinova, second-year PhD student, University of California, Irvine (mbaidild@uci.edu). 
+Corresponding author: Moldir Baidildinova (mbaidild@uci.edu). 
 
 ---
 
